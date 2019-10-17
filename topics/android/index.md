@@ -3,7 +3,7 @@ aliases: android-application, android-app, android-development
 created_by: Google
 display_name: Android
 github_url: https://github.com/android
-logo: android.png
+logo: android.pngtv
 released: September 23, 2008
 short_description: Android is an operating system built by Google designed for mobile
   devices.
